@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {recombine} from '../src/lib/loadout.ts';
+import {sumPrices} from '../src/lib/money.ts';
+import type {Product} from '../src/lib/types.ts';
+const p=(id:string,categoryId:string,priceMinor:number)=>({id,categoryId,priceMinor} as Product);
+const products=[p('p1','pistol',17000),p('p2','pistol',34000),p('r1','rifle',17000),p('r2','rifle',34000),p('k1','knife',17000),p('k2','knife',34000)];
+const chosen=[products[0],products[2],products[4]];
+test('keeps a pinned slot while replacing other slots within budget',()=>{const next=recombine(products,chosen,[true,false,false],'500');assert.ok(next);assert.equal(next[0].id,'p1');assert.notDeepEqual(next.map(p=>p.id),chosen.map(p=>p.id));assert.ok(sumPrices(next.map(p=>p.priceMinor)).rub<=50000);});
+test('cannot fit a locked expensive item and rejects invalid budget',()=>{assert.equal(recombine(products,[products[1],products[2],products[4]],[true,false,false],'100'),null);assert.equal(recombine(products,chosen,[false,false,false],'abc'),null);});
+test('all pinned stays unchanged',()=>{const next=recombine(products,chosen,[true,true,true],'500');assert.deepEqual(next,chosen);});
+test('one feasible combination stays in budget and categories remain distinct',()=>{const next=recombine(products,chosen,[false,false,false],'300');assert.ok(next);assert.deepEqual(next.map(p=>p.categoryId),['pistol','rifle','knife']);assert.equal(sumPrices(next.map(p=>p.priceMinor)).rub,30000);});
