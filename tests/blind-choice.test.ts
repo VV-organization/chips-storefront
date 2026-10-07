@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {blindPairs,visualTraits,tasteProfile,recommendBlindBundle,readBlindSession} from '../src/lib/blind-choice.ts';
+import {sumPrices} from '../src/lib/money.ts';
+import type {Product} from '../src/lib/types.ts';
+const products=JSON.parse(fs.readFileSync(new URL('../src/data/catalog.json',import.meta.url),'utf8')).products as Product[];
+const left=blindPairs.map(p=>p[0]),right=blindPairs.map(p=>p[1]);
+test('all duels use available, different finishes of the same weapon and have visual descriptions',()=>{for(const pair of blindPairs){const items=pair.map(id=>products.find(p=>p.id===id)!);assert.ok(items.every(Boolean));assert.equal(items[0].weapon.replace('Нож Боуи','Bowie Knife'),items[1].weapon.replace('Нож Боуи','Bowie Knife'));assert.notEqual(items[0].finish,items[1].finish);assert.ok(pair.every(id=>visualTraits[id]?.length));}});
+test('opposite choices change the profile and recommended bundle',()=>{assert.notDeepEqual(tasteProfile(left).counts,tasteProfile(right).counts);const a=recommendBlindBundle(products,left,'30000'),b=recommendBlindBundle(products,right,'30000');assert.ok(a.items&&b.items);assert.notDeepEqual(a.items.map(p=>p.id),b.items.map(p=>p.id));});
+test('recommendations have three distinct categories and respect exact rounded total',()=>{for(let mask=0;mask<32;mask++){const answers=blindPairs.map((p,i)=>p[(mask>>i)&1]);for(const budget of ['7400','10000','30000']){const r=recommendBlindBundle(products,answers,budget);if(r.items){assert.deepEqual(r.items.map(p=>p.categoryId),['pistol','rifle','knife']);assert.ok(sumPrices(r.items.map(p=>p.priceMinor)).rub<=Number(budget)*100);}}}});
+test('invalid, insufficient, incomplete and unavailable data never produce an addable bundle',()=>{for(const budget of ['abc','-1','0','1'])assert.equal(recommendBlindBundle(products,left,budget).items,null);assert.equal(recommendBlindBundle(products,left.slice(0,2),'30000').items,null);const unavailable=recommendBlindBundle(products.filter(p=>p.categoryId!=='knife'),left,'30000');assert.equal(unavailable.items,null);assert.equal(unavailable.minimum,null);const small=recommendBlindBundle(products,left,'1');assert.ok(small.minimum!>100);});
+test('saved progress validates choices and clamps steps; changed answers replace profile votes',()=>{assert.equal(readBlindSession('{').step,-1);assert.deepEqual(readBlindSession(JSON.stringify({step:5,answers:[left[0],'unknown'],budget:'30000'})),{step:1,answers:[left[0]],budget:'30000'});assert.equal(tasteProfile([left[0],left[0]]).chosen.length,1);const changed:string[]=[...left];changed[0]=right[0];assert.notDeepEqual(tasteProfile(left).counts,tasteProfile(changed).counts);});

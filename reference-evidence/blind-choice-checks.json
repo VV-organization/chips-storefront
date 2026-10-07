@@ -1,0 +1,122 @@
+{
+  "layouts": [
+    {
+      "headerOverlap": false,
+      "images": true,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "headerOverlap": false,
+      "images": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "headerOverlap": false,
+      "images": true,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "headerOverlap": false,
+      "images": true,
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "headerOverlap": false,
+      "images": true,
+      "overflow": false,
+      "width": 1512
+    }
+  ],
+  "duels": [
+    {
+      "hiddenPrices": true,
+      "images": [
+        {
+          "alt": "Монохром, Лаконичное покрытие",
+          "inside": true
+        },
+        {
+          "alt": "Холодные оттенки, Выразительный рисунок",
+          "inside": true
+        }
+      ],
+      "overflow": false,
+      "title": "Пара 1 из 5. Что ближе?ЦЕНЫ И НАЗВАНИЯ СКРЫТЫ"
+    },
+    {
+      "hiddenPrices": true,
+      "images": [
+        {
+          "alt": "Холодные оттенки, Выразительный рисунок",
+          "inside": true
+        },
+        {
+          "alt": "Тёплые оттенки, Выразительный рисунок",
+          "inside": true
+        }
+      ],
+      "overflow": false,
+      "title": "Пара 2 из 5. Что ближе?ЦЕНЫ И НАЗВАНИЯ СКРЫТЫ"
+    },
+    {
+      "hiddenPrices": true,
+      "images": [
+        {
+          "alt": "Тёплые оттенки, Выразительный рисунок",
+          "inside": true
+        },
+        {
+          "alt": "Холодные оттенки, Выразительный рисунок",
+          "inside": true
+        }
+      ],
+      "overflow": false,
+      "title": "Пара 3 из 5. Что ближе?ЦЕНЫ И НАЗВАНИЯ СКРЫТЫ"
+    },
+    {
+      "hiddenPrices": true,
+      "images": [
+        {
+          "alt": "Холодные оттенки, Лаконичное покрытие",
+          "inside": true
+        },
+        {
+          "alt": "Тёплые оттенки, Выразительный рисунок",
+          "inside": true
+        }
+      ],
+      "overflow": false,
+      "title": "Пара 4 из 5. Что ближе?ЦЕНЫ И НАЗВАНИЯ СКРЫТЫ"
+    },
+    {
+      "hiddenPrices": true,
+      "images": [
+        {
+          "alt": "Тёплые оттенки, Выразительный рисунок",
+          "inside": true
+        },
+        {
+          "alt": "Холодные оттенки, Лаконичное покрытие",
+          "inside": true
+        }
+      ],
+      "overflow": false,
+      "title": "Пара 5 из 5. Что ближе?ЦЕНЫ И НАЗВАНИЯ СКРЫТЫ"
+    }
+  ],
+  "cart": {
+    "quickAddNoticeContained": true,
+    "bundleDeduplicated": true,
+    "countAfterReload": 3,
+    "cartLinkOnRestoredResult": true,
+    "testItemsRemoved": true
+  },
+  "keyboard": true,
+  "backRestoresSelection": true,
+  "lowBudgetDisablesBundle": true,
+  "oppositeAnswersChangeBundle": true
+}
