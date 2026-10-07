@@ -10,13 +10,15 @@ export function BrandIntro(){
   const root=ref.current;
   const target=document.querySelector<HTMLElement>('.site-header .wordmark');
   const motion=matchMedia('(prefers-reduced-motion: reduce)');
-  if(!root||!target||played||location.hash||scrollY>24||motion.matches)return;
+  if(!root)return;
+  if(!target||played||location.hash||scrollY>24||motion.matches){root.dataset.state='done';return;}
   const animations:Animation[]=[];
   let frame=0;
   let timer:ReturnType<typeof setTimeout>|undefined;
-  function finish(){
+  function finish(reveal=true){
    cancelAnimationFrame(frame);
    root!.removeAttribute('data-playing');
+   root!.dataset.state=reveal?'done':'pending';
    document.body.removeAttribute('data-brand-intro');
    animations.forEach(animation=>animation.cancel());
    if(timer)clearTimeout(timer);
@@ -30,6 +32,7 @@ export function BrandIntro(){
    const width=Math.min(innerWidth*.82,640),height=width*.48;
    const left=(innerWidth-width)/2,top=(innerHeight-height)/2;
    const size=width*.29;
+   root.dataset.state='playing';
    root.dataset.playing='';
    document.body.dataset.brandIntro='';
    const timing={duration:2400,fill:'both' as const,easing:'linear'};
@@ -57,7 +60,7 @@ export function BrandIntro(){
   const events=['pointerdown','wheel','touchstart','keydown','resize','scroll','pagehide'] as const;
   events.forEach(event=>window.addEventListener(event,interrupt,{passive:true}));
   motion.addEventListener('change',interrupt);
-  return()=>{finish();events.forEach(event=>window.removeEventListener(event,interrupt));motion.removeEventListener('change',interrupt);};
+  return()=>{finish(false);events.forEach(event=>window.removeEventListener(event,interrupt));motion.removeEventListener('change',interrupt);};
  },[]);
- return <div ref={ref} className="brand-intro" aria-hidden="true"><div className="brand-intro-plate"><div className="brand-intro-word">{'chips/'.split('').map((letter,i)=><span className="brand-intro-letter" key={i}>{letter}</span>)}</div></div></div>;
+ return <div ref={ref} className="brand-intro" data-state="pending" aria-hidden="true"><div className="brand-intro-plate"><div className="brand-intro-word">{'chips/'.split('').map((letter,i)=><span className="brand-intro-letter" key={i}>{letter}</span>)}</div></div></div>;
 }
