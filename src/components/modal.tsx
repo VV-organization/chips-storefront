@@ -1,7 +1,7 @@
 "use client";
 import {useEffect,useRef,type ReactNode} from "react";
 import {Icon} from "./icon";
-export function Modal({title,onClose,children,wide=false}:{title:string;onClose:()=>void;children:ReactNode;wide?:boolean}) {
+export function Modal({title,onClose,children,wide=false,footer}:{title:string;onClose:()=>void;children:ReactNode;wide?:boolean;footer?:ReactNode}) {
   const ref=useRef<HTMLDialogElement>(null);
   useEffect(()=>{
     const dialog=ref.current; const previous=document.activeElement as HTMLElement|null;
@@ -17,6 +17,6 @@ export function Modal({title,onClose,children,wide=false}:{title:string;onClose:
     if(event.shiftKey&&document.activeElement===first){event.preventDefault();last?.focus();}
     else if(!event.shiftKey&&document.activeElement===last){event.preventDefault();first.focus();}
   }} onCancel={onClose} onClick={e=>{if(e.target===e.currentTarget)onClose();}}>
-    <div className="modal-close-bar"><button className="icon-button modal-close" aria-label="Закрыть" onClick={onClose}><Icon name="close"/></button></div><div className="modal-inner">{children}</div>
+    <div className="modal-close-bar"><button className="icon-button modal-close" aria-label="Закрыть" onClick={onClose}><Icon name="close"/></button></div><div className="modal-inner">{children}</div>{footer&&<div className="modal-footer">{footer}</div>}
   </dialog>;
 }

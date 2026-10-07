@@ -1,0 +1,182 @@
+[
+  {
+    "controlsInside": true,
+    "frameHeight": 436.34375,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "AK-47 | Asiimov",
+    "viewport": [
+      1512,
+      850
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 436.34375,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "Glock-18 | Gamma Doppler Phase 3",
+    "viewport": [
+      1512,
+      850
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 436.34375,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "★ M9 Bayonet | Tiger Tooth",
+    "viewport": [
+      1512,
+      850
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 365.1484375,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "AK-47 | Asiimov",
+    "viewport": [
+      1512,
+      700
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 365.1484375,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "Glock-18 | Gamma Doppler Phase 3",
+    "viewport": [
+      1512,
+      700
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 365.1484375,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "★ M9 Bayonet | Tiger Tooth",
+    "viewport": [
+      1512,
+      700
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 650.203125,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "AK-47 | Asiimov",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 650.203125,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "Glock-18 | Gamma Doppler Phase 3",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 650.203125,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "★ M9 Bayonet | Tiger Tooth",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 399.1875,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "AK-47 | Asiimov",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 399.1875,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "Glock-18 | Gamma Doppler Phase 3",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 399.1875,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "★ M9 Bayonet | Tiger Tooth",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 241.625,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "AK-47 | Asiimov",
+    "viewport": [
+      320,
+      568
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 223.125,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "Glock-18 | Gamma Doppler Phase 3",
+    "viewport": [
+      320,
+      568
+    ]
+  },
+  {
+    "controlsInside": true,
+    "frameHeight": 241.625,
+    "oneScreen": true,
+    "overflow": false,
+    "separateImageArea": true,
+    "skin": "★ M9 Bayonet | Tiger Tooth",
+    "viewport": [
+      320,
+      568
+    ]
+  }
+]

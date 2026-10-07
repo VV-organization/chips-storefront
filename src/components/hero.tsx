@@ -1,27 +1,15 @@
 'use client';
 import Image from 'next/image';
 import Link from 'next/link';
-import {useState,type CSSProperties} from 'react';
+import {useRef,useState} from 'react';
 import type {Product} from '@/lib/types';
 import {useShop} from './shop-provider';
 import {Price} from './price';
 import {Icon} from './icon';
 import {OrbitalField} from './orbital-field';
+const artworkNames:Record<string,string>={'swap-ba19f94fd9cd':'ak-asiimov','swap-f552ddd674fb':'glock-gamma-phase3','swap-35d1bd8ccb42':'m9-tiger-tooth'};
+function artwork(p:Product){return artworkNames[p.id]?`${process.env.NEXT_PUBLIC_BASE_PATH??''}/hero/${artworkNames[p.id]}.webp`:p.imageUrl;}
 export function Hero({products}:{products:Product[]}){
- const [active,setActive]=useState(0),shop=useShop(),product=products[active];
- if(!product)return null;
- return <section className="hero" aria-labelledby="hero-title">
-  <div className="hero-stage" onPointerMove={e=>{if(e.pointerType==='touch'||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const b=e.currentTarget.getBoundingClientRect();e.currentTarget.style.setProperty('--dx',`${(e.clientX-b.left-b.width/2)*.018}px`);e.currentTarget.style.setProperty('--dy',`${(e.clientY-b.top-b.height/2)*.018}px`);}} onPointerLeave={e=>{e.currentTarget.style.setProperty('--dx','0px');e.currentTarget.style.setProperty('--dy','0px');}}>
-   <OrbitalField/><span className="stage-annotation">СКИНЫ ДЛЯ COUNTER-STRIKE 2</span><span className="stage-cross" aria-hidden="true">+</span>
-   <div className="hero-watermark" aria-hidden="true">chips</div>
-   <button className="hero-object" onClick={()=>shop.setPreviewProduct(product)} aria-label={`Рассмотреть: ${product.name}`} key={product.id}>
-    <Image src={product.imageUrl} alt={product.name} width={1000} height={650} priority sizes="(max-width:700px) 90vw, 65vw"/>
-    <span className="object-fragments" aria-hidden="true">{[0,1,2].map(n=><span key={n} style={{'--fragment':n} as CSSProperties}><Image src={product.imageUrl} alt="" width={1000} height={650} priority/></span>)}</span>
-    <span className="object-open"><Icon name="plus" size={19}/><span>Рассмотреть</span></span>
-   </button>
-   <div className="hero-product-caption"><div><span>{product.weapon}</span><strong>{product.finish}</strong></div><Price minor={product.priceMinor}/></div>
-   <div className="hero-selector" role="group" aria-label="Скин на обложке">{products.map((p,i)=><button key={p.id} aria-label={`Показать ${p.name}`} aria-pressed={active===i} onClick={()=>setActive(i)}><span>0{i+1}</span><Image src={p.imageUrl} alt="" width={100} height={70}/></button>)}</div>
-  </div>
-  <div className="hero-editorial"><div className="hero-description"><span className="eyebrow">ТВОЙ СЛЕД В ИГРЕ</span><p>Один инвентарь.<br/>{' '}Тысячи способов быть собой.</p><span className="hero-rate">1 ₽ <span>↔</span> 1,7 Chips</span></div><div><h1 id="hero-title">Всё решают<br/><span>детали.</span></h1><div className="hero-cta"><Link className="button primary" href="/catalog">Выбрать скин <Icon name="diagonal"/></Link><Link href="#steam" className="text-link">Пополнить Steam <Icon name="arrow"/></Link></div></div></div>
- </section>;
+ const [active,setActive]=useState(0),shop=useShop(),product=products[active],objectRef=useRef<HTMLSpanElement>(null);if(!product)return null;
+ return <section className="hero" aria-labelledby="hero-title"><div className="hero-stage" onPointerMove={e=>{if(e.pointerType==='touch'||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const b=e.currentTarget.getBoundingClientRect();e.currentTarget.style.setProperty('--dx',`${(e.clientX-b.left-b.width/2)*.018}px`);e.currentTarget.style.setProperty('--dy',`${(e.clientY-b.top-b.height/2)*.018}px`);}} onPointerLeave={e=>{e.currentTarget.style.setProperty('--dx','0px');e.currentTarget.style.setProperty('--dy','0px');}}><OrbitalField objectRef={objectRef}/><div className="hero-index"><span className="micro-label">CHIPS / COUNTER-STRIKE 2</span><span className="micro-label">ТВОЙ ИНВЕНТАРЬ. ТВОЙ ХАРАКТЕР.</span></div><div className="hero-copy"><h1 id="hero-title"><span>Всё решают детали<span className="red-period">.</span></span></h1><p><span>Находи своё. Собирай сочетания. Выходи в игру.</span></p><Link className="button primary" href="/catalog">Выбрать скин <Icon name="diagonal"/></Link></div><button className={`hero-object${active===0?' hero-object-rifle':''}`} onClick={()=>shop.setPreviewProduct(product)} aria-label={`Рассмотреть: ${product.name}`}><span className="hero-object-parallax"><span className="hero-object-float" ref={objectRef}><span className="hero-object-reveal" key={product.id}><Image src={artwork(product)} alt={product.name} width={1536} height={1024} loading="eager"/></span></span></span><span className="object-open"><Icon name="plus" size={18}/></span></button><div className="hero-selection"><div className="hero-product-caption"><span>{product.weapon}</span><strong>{product.finish}</strong><Price minor={product.priceMinor}/></div><div className="hero-selector" role="group" aria-label="Скин на обложке">{products.map((p,i)=><button key={p.id} aria-label={`Показать ${p.name}`} aria-pressed={active===i} onClick={()=>setActive(i)}><span>{String(i+1).padStart(2,'0')}</span><span>{p.weapon}</span><b>{active===i?'−':'+'}</b></button>)}</div></div><div className="hero-bottom"><span>1 ₽ <b>↔</b> 1,7 Chips</span><Link href="#topups">Дальше — больше <span>↓</span></Link></div></div></section>;
 }

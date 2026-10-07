@@ -1,0 +1,5168 @@
+{
+  "date": "2026-10-07",
+  "checks": [
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 1497,
+      "width": 1512
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 1905,
+      "width": 1920
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": false,
+          "selector": ".choice-options img"
+        }
+      ],
+      "count": 45,
+      "failures": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "checks": [
+        {
+          "alt": "★ Hydra Gloves | Rattler",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bayonet | Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "MP5-SD | Оксидовый оазис",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir UMP-45 | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Sport Gloves | Arid",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bowie Knife | Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Desert Eagle | Ржавый кобальт",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AUG | Пламенный Ёрмунганд",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ПП-19 «Бизон» | Антиквариат",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ PP-Bizon | Judgement of Anubis",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Five-SeveN | Разъярённая толпа",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "P250 | Undertow",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "FAMAS | Авария",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Lore",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ P250 | Прощальный оскал",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Whiteout",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SG 553 | Странник",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Galil AR | Sugar Rush",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Патина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Falchion Knife | Black Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Tec-9 | Опустошитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A1-S | Atomic Alloy",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Huntsman Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Револьвер R8 | Градиент",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Хамелеон",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A4 | Cyber Security",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Tec-9 | Ядерная угроза",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Огонь Чантико",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SSG 08 | Death Strike",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Скелетный нож | Ночная полоса",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | Азимов",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir M4A1-S | Master Piece",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Складной нож | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ M9 Bayonet | Tiger Tooth",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Путеводитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Автомат «Галиль» | Конфетка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Тычковые ножи | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Survival Knife | Slaughter",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Basilisk",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Фальшион | Автотроника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Ursus Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | The Emperor",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Штык-нож",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Классический нож | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Северный лес",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож-бабочка | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        }
+      ],
+      "count": 68,
+      "failures": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "checks": [
+        {
+          "alt": "★ Hydra Gloves | Rattler",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bayonet | Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "MP5-SD | Оксидовый оазис",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir UMP-45 | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Sport Gloves | Arid",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bowie Knife | Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Desert Eagle | Ржавый кобальт",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AUG | Пламенный Ёрмунганд",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ПП-19 «Бизон» | Антиквариат",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ PP-Bizon | Judgement of Anubis",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Five-SeveN | Разъярённая толпа",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "P250 | Undertow",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "FAMAS | Авария",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Lore",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ P250 | Прощальный оскал",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Whiteout",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SG 553 | Странник",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Galil AR | Sugar Rush",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Патина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Falchion Knife | Black Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Tec-9 | Опустошитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A1-S | Atomic Alloy",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Huntsman Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Револьвер R8 | Градиент",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Хамелеон",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A4 | Cyber Security",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Tec-9 | Ядерная угроза",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Огонь Чантико",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SSG 08 | Death Strike",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Скелетный нож | Ночная полоса",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | Азимов",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir M4A1-S | Master Piece",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Складной нож | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ M9 Bayonet | Tiger Tooth",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Путеводитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Автомат «Галиль» | Конфетка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Тычковые ножи | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Survival Knife | Slaughter",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Basilisk",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Фальшион | Автотроника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Ursus Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | The Emperor",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Штык-нож",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Классический нож | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Северный лес",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож-бабочка | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        }
+      ],
+      "count": 68,
+      "failures": [],
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "checks": [
+        {
+          "alt": "★ Hydra Gloves | Rattler",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bayonet | Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "MP5-SD | Оксидовый оазис",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir UMP-45 | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Sport Gloves | Arid",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bowie Knife | Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Desert Eagle | Ржавый кобальт",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AUG | Пламенный Ёрмунганд",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ПП-19 «Бизон» | Антиквариат",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ PP-Bizon | Judgement of Anubis",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Five-SeveN | Разъярённая толпа",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "P250 | Undertow",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "FAMAS | Авария",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Lore",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ P250 | Прощальный оскал",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Whiteout",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SG 553 | Странник",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Galil AR | Sugar Rush",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Патина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Falchion Knife | Black Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Tec-9 | Опустошитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A1-S | Atomic Alloy",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Huntsman Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Револьвер R8 | Градиент",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Хамелеон",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A4 | Cyber Security",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Tec-9 | Ядерная угроза",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Огонь Чантико",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SSG 08 | Death Strike",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Скелетный нож | Ночная полоса",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | Азимов",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir M4A1-S | Master Piece",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Складной нож | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ M9 Bayonet | Tiger Tooth",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Путеводитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Автомат «Галиль» | Конфетка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Тычковые ножи | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Survival Knife | Slaughter",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Basilisk",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Фальшион | Автотроника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Ursus Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | The Emperor",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Штык-нож",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Классический нож | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Северный лес",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож-бабочка | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        }
+      ],
+      "count": 68,
+      "failures": [],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "checks": [
+        {
+          "alt": "★ Hydra Gloves | Rattler",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bayonet | Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "MP5-SD | Оксидовый оазис",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir UMP-45 | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Sport Gloves | Arid",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bowie Knife | Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Desert Eagle | Ржавый кобальт",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AUG | Пламенный Ёрмунганд",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ПП-19 «Бизон» | Антиквариат",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ PP-Bizon | Judgement of Anubis",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Five-SeveN | Разъярённая толпа",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "P250 | Undertow",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "FAMAS | Авария",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Lore",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ P250 | Прощальный оскал",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Whiteout",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SG 553 | Странник",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Galil AR | Sugar Rush",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Патина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Falchion Knife | Black Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Tec-9 | Опустошитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A1-S | Atomic Alloy",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Huntsman Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Револьвер R8 | Градиент",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Хамелеон",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A4 | Cyber Security",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Tec-9 | Ядерная угроза",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Огонь Чантико",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SSG 08 | Death Strike",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Скелетный нож | Ночная полоса",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | Азимов",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir M4A1-S | Master Piece",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Складной нож | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ M9 Bayonet | Tiger Tooth",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Путеводитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Автомат «Галиль» | Конфетка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Тычковые ножи | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Survival Knife | Slaughter",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Basilisk",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Фальшион | Автотроника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Ursus Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | The Emperor",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Штык-нож",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Классический нож | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Северный лес",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож-бабочка | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        }
+      ],
+      "count": 68,
+      "failures": [],
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    {
+      "checks": [
+        {
+          "alt": "★ Hydra Gloves | Rattler",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bayonet | Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "MP5-SD | Оксидовый оазис",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir UMP-45 | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Sport Gloves | Arid",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bowie Knife | Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Desert Eagle | Ржавый кобальт",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AUG | Пламенный Ёрмунганд",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ПП-19 «Бизон» | Антиквариат",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ PP-Bizon | Judgement of Anubis",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Five-SeveN | Разъярённая толпа",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "P250 | Undertow",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "FAMAS | Авария",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Lore",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ P250 | Прощальный оскал",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Whiteout",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SG 553 | Странник",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Galil AR | Sugar Rush",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Патина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Falchion Knife | Black Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Tec-9 | Опустошитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A1-S | Atomic Alloy",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Huntsman Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Револьвер R8 | Градиент",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Хамелеон",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A4 | Cyber Security",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Tec-9 | Ядерная угроза",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Огонь Чантико",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SSG 08 | Death Strike",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Скелетный нож | Ночная полоса",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | Азимов",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir M4A1-S | Master Piece",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Складной нож | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ M9 Bayonet | Tiger Tooth",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Путеводитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Автомат «Галиль» | Конфетка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Тычковые ножи | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Survival Knife | Slaughter",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Basilisk",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Фальшион | Автотроника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Ursus Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | The Emperor",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Штык-нож",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Классический нож | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Северный лес",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож-бабочка | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        }
+      ],
+      "count": 68,
+      "failures": [],
+      "scrollWidth": 1497,
+      "width": 1512
+    },
+    {
+      "checks": [
+        {
+          "alt": "★ Hydra Gloves | Rattler",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bayonet | Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "MP5-SD | Оксидовый оазис",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir UMP-45 | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Sport Gloves | Arid",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Керамбит | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Bowie Knife | Doppler Phase 1",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Desert Eagle | Ржавый кобальт",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Glock-18 | Gamma Doppler Phase 3",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AUG | Пламенный Ёрмунганд",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ПП-19 «Бизон» | Антиквариат",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ PP-Bizon | Judgement of Anubis",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Five-SeveN | Разъярённая толпа",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "P250 | Undertow",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "FAMAS | Авария",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Коготь | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Butterfly Knife | Lore",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ P250 | Прощальный оскал",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Whiteout",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SG 553 | Странник",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Galil AR | Sugar Rush",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Патина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Falchion Knife | Black Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Tec-9 | Опустошитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A1-S | Atomic Alloy",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Нож Боуи | Убийство",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Huntsman Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Револьвер R8 | Градиент",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Хамелеон",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "M4A4 | Cyber Security",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Blue Steel",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Tec-9 | Ядерная угроза",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Огонь Чантико",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "SSG 08 | Death Strike",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Скелетный нож | Ночная полоса",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Karambit | Fade",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | Азимов",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Souvenir M4A1-S | Master Piece",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Складной нож | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ M9 Bayonet | Tiger Tooth",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "USP-S | Путеводитель",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ Автомат «Галиль» | Конфетка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Тычковые ножи | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Survival Knife | Slaughter",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A1-S | Basilisk",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Фальшион | Автотроника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Ursus Knife | Rust Coat",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ M4A4 | The Emperor",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ ★ Штык-нож",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "Классический нож | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Кровавая паутина",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож выживания | Северный лес",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Нож-бабочка | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Поверхностная закалка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "★ Штык-нож M9 | Черный глянец",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": false,
+          "selector": ".product-image-button img"
+        }
+      ],
+      "count": 68,
+      "failures": [],
+      "scrollWidth": 1905,
+      "width": 1920
+    },
+    {
+      "checks": [
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".detail-visual>img"
+        }
+      ],
+      "count": 6,
+      "failures": [],
+      "scrollWidth": 1920,
+      "width": 1920
+    },
+    {
+      "checks": [
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | X-Ray",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "StatTrak™ AK-47 | Leet Museo",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".detail-visual>img"
+        }
+      ],
+      "count": 6,
+      "failures": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "checks": [
+        {
+          "alt": "AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AUG | Пламенный Ёрмунганд",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Red Laminate",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "FAMAS | Авария",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 20,
+          "loaded": true,
+          "selector": ".product-image-button img"
+        },
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".inspection-object img"
+        }
+      ],
+      "count": 5,
+      "failures": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "checks": [
+        {
+          "alt": "AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".cart-image img"
+        }
+      ],
+      "count": 1,
+      "failures": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 19.9371337890625,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "checks": [
+        {
+          "alt": "Desert Eagle | Механо-пушка",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ AUG | Аристократ",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "StatTrak™ ★ Охотничий нож | Дамасская сталь",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 16,
+          "loaded": true,
+          "selector": ".slot-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 0,
+          "loaded": true,
+          "selector": ".category-poster img"
+        },
+        {
+          "alt": "USP-S | Printstream",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": 18.5,
+          "loaded": true,
+          "selector": ".spectrum-object img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".spectrum-dock img"
+        },
+        {
+          "alt": "B: AK-47 | Asiimov",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        },
+        {
+          "alt": "A: AK-47 | Гидропоника",
+          "fit": "contain",
+          "inside": true,
+          "labelGap": null,
+          "loaded": true,
+          "selector": ".compare-layer img"
+        }
+      ],
+      "count": 16,
+      "failures": [],
+      "scrollWidth": 1497,
+      "width": 1512
+    }
+  ],
+  "hero": [
+    {
+      "alt": "AK-47 | Asiimov",
+      "captionGap": 62.11497497558594,
+      "frame": {
+        "bottom": 800,
+        "height": 720,
+        "left": 0,
+        "right": 1497,
+        "top": 80,
+        "width": 1497,
+        "x": 0,
+        "y": 80
+      },
+      "image": {
+        "bottom": 571.3850250244141,
+        "height": 443.2991943359375,
+        "left": 711.2618408203125,
+        "right": 1281.843505859375,
+        "top": 128.08583068847656,
+        "width": 570.5816650390625,
+        "x": 711.2618408203125,
+        "y": 128.08583068847656
+      },
+      "inside": true,
+      "motion": "matrix3d(0.995305, -0.0384274, 0.0888317, 0, 0.0360305, 0.998946, 0.0284313, 0, -0.0898306, -0.0250972, 0.995641, 0, -3.74764, -19.6472, 0, 1)",
+      "width": 1512
+    },
+    {
+      "alt": "AK-47 | Asiimov",
+      "captionGap": 43.8956298828125,
+      "frame": {
+        "bottom": 880,
+        "height": 800,
+        "left": 0,
+        "right": 1905,
+        "top": 80,
+        "width": 1905,
+        "x": 0,
+        "y": 80
+      },
+      "image": {
+        "bottom": 669.6043701171875,
+        "height": 481.1847534179687,
+        "left": 934.6564331054688,
+        "right": 1582.549560546875,
+        "top": 188.41961669921875,
+        "width": 647.8931274414062,
+        "x": 934.6564331054688,
+        "y": 188.41961669921875
+      },
+      "inside": true,
+      "motion": "matrix3d(0.999435, 0.0221795, -0.0252462, 0, -0.0241158, 0.996569, -0.0791725, 0, 0.0234036, 0.0797366, 0.996541, 0, -4.4609, 19.1636, 0, 1)",
+      "width": 1920
+    },
+    {
+      "alt": "AK-47 | Asiimov",
+      "captionGap": 93.178466796875,
+      "frame": {
+        "bottom": 814,
+        "height": 750,
+        "left": 0,
+        "right": 305,
+        "top": 64,
+        "width": 305,
+        "x": 0,
+        "y": 64
+      },
+      "image": {
+        "bottom": 525.821533203125,
+        "height": 173.34609985351562,
+        "left": 41.77729415893555,
+        "right": 278.17687606811523,
+        "top": 352.4754333496094,
+        "width": 236.3995819091797,
+        "x": 41.77729415893555,
+        "y": 352.4754333496094
+      },
+      "inside": true,
+      "motion": "matrix3d(0.990444, 0.0576142, -0.125308, 0, -0.0677813, 0.994612, -0.0784451, 0, 0.120114, 0.086189, 0.989012, 0, 8.20648, -18.9534, 0, 1)",
+      "width": 320
+    }
+  ]
+}
