@@ -43,12 +43,3 @@ export function recommendBlindBundle(products:Product[],answers:string[],budgetT
 }
 export type BlindSession={step:number;answers:string[];budget:string};
 export const emptyBlindSession:BlindSession={step:-1,answers:[],budget:'30 000'};
-export function readBlindSession(raw:string):BlindSession{
- try{
-  const value=JSON.parse(raw);
-  if(!value||!Array.isArray(value.answers)||!Number.isInteger(value.step)||typeof value.budget!=='string')return emptyBlindSession;
-  const answers:string[]=[];
-  for(let i=0;i<blindPairs.length;i++){const id=value.answers[i];if(!blindPairs[i].some(option=>option===id))break;answers.push(id);}
-  return {step:Math.max(-1,Math.min(value.step,answers.length,blindPairs.length)),answers,budget:value.budget.slice(0,12)};
- }catch{return emptyBlindSession;}
-}

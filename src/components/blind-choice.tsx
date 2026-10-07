@@ -3,24 +3,20 @@ import {useMemo,useRef,useSyncExternalStore} from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import type {Product} from '@/lib/types';
-import {blindPairs,emptyBlindSession,readBlindSession,recommendBlindBundle,traitLabels,visualTraits,type BlindSession} from '@/lib/blind-choice';
-import {createSafeStorage} from '@/lib/browser-storage';
+import {blindPairs,emptyBlindSession,recommendBlindBundle,traitLabels,visualTraits,type BlindSession} from '@/lib/blind-choice';
 import {formatMinor,sumPrices} from '@/lib/money';
 import {useShop} from './shop-provider';
 import {Price} from './price';
 import {Icon} from './icon';
 
-const storage=createSafeStorage(()=>localStorage),key='chips:blind-choice:v1',empty=JSON.stringify(emptyBlindSession);
-function subscribe(notify:()=>void){
- const external=(event:StorageEvent)=>{if(event.key===key||event.key===null){storage.invalidate(event.key);notify();}};
- window.addEventListener('storage',external);window.addEventListener('chips-blind-choice',notify);
- return()=>{window.removeEventListener('storage',external);window.removeEventListener('chips-blind-choice',notify);};
-}
-function save(session:BlindSession){storage.write(key,JSON.stringify(session));window.dispatchEvent(new Event('chips-blind-choice'));}
+// Lives for this document only: client-side navigation keeps it, reload starts fresh.
+let sessionSnapshot=emptyBlindSession;
+const listeners=new Set<()=>void>();
+function subscribe(notify:()=>void){listeners.add(notify);return()=>{listeners.delete(notify);};}
+function save(session:BlindSession){sessionSnapshot=session;listeners.forEach(notify=>notify());}
 export function BlindChoice({products}:{products:Product[]}){
  const shop=useShop(),title=useRef<HTMLHeadingElement>(null);
- const raw=useSyncExternalStore(subscribe,()=>storage.read(key,empty),()=>empty);
- const session=useMemo(()=>readBlindSession(raw),[raw]);
+ const session=useSyncExternalStore(subscribe,()=>sessionSnapshot,()=>emptyBlindSession);
  const {step,answers,budget}=session;
  const available=useMemo(()=>new Map(products.map(p=>[p.id,p])),[products]);
  const complete=step===blindPairs.length;
@@ -43,7 +39,7 @@ export function BlindChoice({products}:{products:Product[]}){
    <div className="blind-track" aria-label="Этапы слепого выбора">{blindPairs.map((_,i)=><span key={i} className={`${answers[i]?'is-done':''} ${step===i?'is-current':''}`} aria-current={step===i?'step':undefined}><b>{String(i+1).padStart(2,'0')}</b><i/></span>)}<span className={complete?'is-current':''}><b>↗</b><i/></span></div>
    <div className="blind-stage-heading"><h3 ref={title} tabIndex={-1}>{step<0?'Что ты выберешь, не зная цены?':complete?'Твой выбор. Без подсказок.':`Пара ${step+1} из ${blindPairs.length}. Что ближе?`}</h3><span className="micro-label">{step<0?'~ 30 СЕКУНД':complete?'НАЗВАНИЯ РАСКРЫТЫ':'ЦЕНЫ И НАЗВАНИЯ СКРЫТЫ'}</span></div>
    <p className="sr-only" role="status" aria-live="polite">{complete?'Выбор раскрыт. Теперь можно посмотреть названия и подобрать комплект.':step>=0?`Пара ${step+1} из 5. ${picked?'Вариант выбран. Можно продолжить.':'Выберите один из двух вариантов.'}`:''}</p>
-   {step<0?<div className="blind-intro"><div className="blind-intro-number" aria-hidden="true">A<span>/</span>B</div><div className="blind-intro-copy"><p>Выбирай покрытие, которое цепляет. В конце раскроем твои пять скинов и соберём пистолет, винтовку и нож под твой бюджет.</p><button className="button primary" onClick={()=>go(0)}>Довериться взгляду <Icon name="arrow"/></button><small>Ответы сохраняются в этом браузере.</small></div></div>:
+   {step<0?<div className="blind-intro"><div className="blind-intro-number" aria-hidden="true">A<span>/</span>B</div><div className="blind-intro-copy"><p>Выбирай покрытие, которое цепляет. В конце раскроем твои пять скинов и соберём пистолет, винтовку и нож под твой бюджет.</p><button className="button primary" onClick={()=>go(0)}>Довериться взгляду <Icon name="arrow"/></button><small>Обновление страницы начинает выбор заново.</small></div></div>:
    !complete?<>
     <div className="blind-duel" role="group" aria-label={`Визуальная пара ${step+1}`}>
      {blindPairs[step].map((id,i)=>{const p=available.get(id)!;const letter=i===0?'A':'B';return <button key={`${step}-${id}`} className={`blind-option ${picked===id?'is-chosen':''}`} aria-label={`Выбрать вариант ${letter}`} aria-pressed={picked===id} aria-describedby={`blind-description-${i}`} onClick={()=>choose(id)}><span className="blind-option-top"><b>{letter}</b><span>{picked===id?'МОЙ ВЫБОР':'ПОКРЫТИЕ '+letter}</span><Icon name={picked===id?'check':'plus'} size={20}/></span><Image src={p.imageUrl} alt={(visualTraits[id]??[]).map(t=>traitLabels[t]).join(', ')} width={600} height={400} loading="eager"/><span id={`blind-description-${i}`} className="sr-only">{(visualTraits[id]??[]).map(t=>traitLabels[t]).join(', ')}</span><span className="blind-option-bottom">{picked===id?'Оставить этот':'Нравится этот'} <Icon name="diagonal" size={20}/></span></button>;})}
