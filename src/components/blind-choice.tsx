@@ -41,7 +41,7 @@ export function BlindChoice({products}:{products:Product[]}){
    <p className="sr-only" role="status" aria-live="polite">{complete?'Выбор раскрыт. Теперь можно посмотреть названия и подобрать комплект.':step>=0?`Пара ${step+1} из 5. ${picked?'Вариант выбран. Можно продолжить.':'Выберите один из двух вариантов.'}`:''}</p>
    {step<0?<div className="blind-intro"><div className="blind-mystery" aria-hidden="true">
     <span className="blind-mystery-caption">ПОКРЫТИЕ СКРЫТО <i/></span>
-    {['glock-gamma-phase3','ak-asiimov','m9-tiger-tooth'].map((skin,i)=><div className={`blind-mystery-object blind-mystery-object-${i+1}`} key={skin}><Image src={`${process.env.NEXT_PUBLIC_BASE_PATH??''}/hero/${skin}.webp`} alt="" width={1536} height={1024}/><span className="blind-mystery-mark">?</span></div>)}
+    {['swap-f552ddd674fb','swap-ba19f94fd9cd','swap-35d1bd8ccb42'].map((skin,i)=><div className={`blind-mystery-object blind-mystery-object-${i+1}`} key={skin}><Image src={`${process.env.NEXT_PUBLIC_BASE_PATH??''}/catalog-hd/${skin}.webp`} alt="" width={1536} height={1024}/><span className="blind-mystery-mark">?</span></div>)}
     <span className="blind-mystery-footnote">Знакомая форма. Неизвестный характер.</span>
    </div><div className="blind-intro-copy"><p>Выбирай покрытие, которое цепляет. В конце раскроем твои пять скинов и соберём пистолет, винтовку и нож под твой бюджет.</p><button className="button primary" onClick={()=>go(0)}>Довериться взгляду <Icon name="arrow"/></button><small>Обновление страницы начинает выбор заново.</small></div></div>:
    !complete?<>
