@@ -1,11 +1,12 @@
 /** Minor units are hundredths; preview rounding is half-up, not a live payment contract. */
 export const CHIPS_PER_RUBLE = 1.7;
 export const STEAM_FEE_PERCENT = 5;
-const MAX_MINOR = 999_999_999;
+const MAX_MINOR = 999_999_999_999; // Catalog collectibles may cost more than the top-up input limit.
 
-export function parseAmount(value: string): number | null {
+export function parseAmount(value: string, maxWholeDigits = 7): number | null {
   const clean = value.trim().replace(/[ \u00a0\u202f]/g, "").replace(",", ".");
-  if (!/^\d{1,7}(?:\.\d{1,2})?$/.test(clean)) return null;
+  if (!Number.isInteger(maxWholeDigits) || maxWholeDigits < 1 || maxWholeDigits > 10) return null;
+  if (!new RegExp(`^\\d{1,${maxWholeDigits}}(?:\\.\\d{1,2})?$`).test(clean)) return null;
   const [whole, fraction = ""] = clean.split(".");
   const minor = Number(whole) * 100 + Number(fraction.padEnd(2, "0"));
   return Number.isSafeInteger(minor) && minor <= MAX_MINOR ? minor : null;

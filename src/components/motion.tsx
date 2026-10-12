@@ -13,7 +13,7 @@ const coverage:Record<Kind,string>={
  object:'.hero-object-reveal,.spectrum-object img,.compare-canvas,.slot-object img,.blind-mystery,.inspection-viewport,.detail-visual',
  type:'h1,h2,h3,h4,.price,.order-total,.converter-equation>label,.equation-equals,.footer-intro>p',
  rule:'.blind-track>span,.measure-track,.float-track,.spectrum-foot,.converter-rule,.footer-bottom',
- strip:'.main-nav>a,.header-actions>*,.section-index,.micro-label,.weapon-name,.eyebrow,.topup-title,p:not(.sr-only):not([role]),.button,.text-link,.choice-trigger,.palette-choices,.spectrum-dock,.hero-selector,.hero-bottom,.hero-product-caption,.slot-header,.loadout-budget>label,.budget-status,.catalog-category-tabs,.catalog-toolbar,.catalog-filters.filters-open,.breadcrumbs,.skin-specs,.payment-row,.detail-image-note,.inspection-top,.inspection-bottom,.inspection-tools,.blind-round-actions,.blind-profile,.blind-presets,.blind-intro-copy>small,.blind-stage-heading>span,.compare-readout dl,.compare-command>span,.compare-delta,.footer-index>a,.footer-logo,.account-sidebar,.account-section-label,.summary-line,.checkout-method,.cart-stage-label,.loadout-budget>.money-input,.blind-budget>div:last-child,.history-empty',
+ strip:'.main-nav>a,.header-actions>*,.section-index,.micro-label,.weapon-name,.eyebrow,.topup-title,p:not(.sr-only):not([role]),.button,.text-link,.choice-trigger,.palette-choices,.spectrum-dock,.hero-selector,.hero-bottom,.hero-product-caption,.slot-header,.loadout-budget>label,.budget-status,.catalog-games,.catalog-category-tabs,.catalog-toolbar,.catalog-filters.filters-open,.breadcrumbs,.skin-specs,.payment-row,.detail-image-note,.inspection-top,.inspection-bottom,.inspection-tools,.blind-round-actions,.blind-profile,.blind-presets,.blind-intro-copy>small,.blind-stage-heading>span,.compare-readout dl,.compare-command>span,.compare-delta,.footer-index>a,.footer-logo,.account-sidebar,.account-section-label,.summary-line,.checkout-method,.cart-stage-label,.loadout-budget>.money-input,.blind-budget>div:last-child,.history-empty',
 };
 const candidates=Object.values(coverage).join(',');
 const reveal:Record<Kind,{frames:Keyframe[];duration:number;delay:number}>={
@@ -60,7 +60,7 @@ export function PageMotion(){
   function scan(){
    // React retains ownership of text and layout: no runtime text splitting or wrapper insertion.
    document.querySelectorAll<HTMLElement>(candidates).forEach(el=>{
-    if(records.has(el)||enteredHeader.has(el)||!inScope(el)||el.closest('.sr-only,[role="status"],.cart-notice,.brand-intro'))return;
+    if(records.has(el)||enteredHeader.has(el)||!inScope(el)||el.closest('.sr-only,[role="status"],.cart-notice,.brand-intro,[data-motion-pending]'))return;
     const ancestor=el.parentElement?.closest(candidates);
     if(ancestor&&inScope(ancestor))return;
     if(!el.getClientRects().length)return;
@@ -101,7 +101,7 @@ export function PageMotion(){
    scheduleScan();
   });
   // Includes dynamic quiz results, filters and native dialogs outside main.
-  changes.observe(document.body,{childList:true,subtree:true,attributes:true,attributeFilter:['src','open','data-state','class']});
+  changes.observe(document.body,{childList:true,subtree:true,attributes:true,attributeFilter:['src','open','data-state','class','data-motion-pending']});
   document.addEventListener('focusin',interact);document.addEventListener('pointerdown',interact,{passive:true});
   reduced.addEventListener('change',preference);window.addEventListener('resize',scheduleScan);scan();
   return()=>{cancelAnimationFrame(scanFrame);observer.disconnect();changes.disconnect();records.forEach((record,el)=>{record.animation?.cancel();delete el.dataset.motionState;delete el.dataset.motionKind;delete el.dataset.motionCurtain;delete el.dataset.motionPosition;el.style.removeProperty('--motion-cover');});document.removeEventListener('focusin',interact);document.removeEventListener('pointerdown',interact);reduced.removeEventListener('change',preference);window.removeEventListener('resize',scheduleScan);};
